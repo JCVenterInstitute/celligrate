@@ -1,1 +1,13 @@
 Code of Conduct
+
+Copyright and Integrity
+
+The open source code of this project is licensed under the MIT License for copyright. Publishing contents, other than by the authors of this project, related to parts or whole body of this project, please credit this project through proper citation and/or acknowledgement. Failure to provide such acknowledgement is considered plagiarism.
+
+Community Base Activities and Contributions
+
+For standards of community based activities and contributions for this open source project, please refer to https://github.com/JCVenterInstitute/celligrate/blob/master/CODE_OF_CONDUCT.md
+
+Note
+
+This document/link (https://github.com/JCVenterInstitute/celligrate/blob/master/CODE_OF_CONDUCT.txt) will be maintained until a decision of an open grant application to be reached. In the future, this link will be vanished. All Code of Conduct contents are available in one continuously updated document with link: https://github.com/JCVenterInstitute/celligrate/blob/master/CODE_OF_CONDUCT.md
