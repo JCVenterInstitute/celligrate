@@ -1,6 +1,8 @@
 # Site wide configuration
-
 title: celligrate
-theme: jekyll-theme-cayman
 #locale: en_US
 #logo: # filename of a logo image that has been placed into your images directory
+
+# Build settings
+markdown: kramdown
+theme: minima
