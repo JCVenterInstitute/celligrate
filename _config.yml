@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
-title: celligrate
-description: An essential software suite for robust single cell RNA-seq cell type integration
+# Site wide configuration
 
-left:
-  - text: FR-Match Vignettes
-    href: FRmatch-vignette.html
+title: celligrate
+theme: jekyll-theme-cayman
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
