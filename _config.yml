@@ -1,18 +1,13 @@
 # Site wide configuration
-title: celligrate
 #locale: en_US
 #logo: # filename of a logo image that has been placed into your images directory
-
-# Build settings
-markdown: kramdown
-theme: minima
 
 title: celligrate
 author: Yun (Renee) Zhang
 email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
   An essential software suite for robust single cell RNA-seq cell type integration
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -51,6 +46,7 @@ header_pages:
  - FRmatch-vignette.html
 
 # Build settings
+markdown: kramdown
 theme: minima
 
 plugins:
