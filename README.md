@@ -1,3 +1,3 @@
 # Welcome to Celligrate
 
-Project home page: jcventerinstitute.github.io/celligrate/
+Project home page: https://jcventerinstitute.github.io/celligrate/
