@@ -12,6 +12,6 @@ layout: home
 
 ## Software Suite
 
-![](images/NS-Forest-sticker.png){:height="200px" width="150px"}
+![](images/NS-Forest-sticker.png){:height="150px" width="120px"}
 
-![](images/FRmatch-sticker.png){:height="200px" width="150px"}
+![](images/FRmatch-sticker.png){:height="150px" width="120px"}
