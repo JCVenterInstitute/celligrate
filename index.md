@@ -15,7 +15,7 @@ title: Welcome to Celligrate!
 
 ## Software Suite
 
-![](images/NS-Forest-sticker.png){:height="150px" width="125px"} ![](images/FRmatch-sticker.png){:height="150px" width="125px"}
+[![](images/NS-Forest-sticker.png){:height="150px" width="125px"}](https://github.com/JCVenterInstitute/NSForest) [![](images/FRmatch-sticker.png){:height="150px" width="125px"}](https://github.com/JCVenterInstitute/FRmatch)
 
 ## Tutorials
 
