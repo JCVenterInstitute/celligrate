@@ -44,6 +44,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - motivation.md
+ - FRmatch-vignette.html
  - about.md
  
 
