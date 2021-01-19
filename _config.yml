@@ -6,7 +6,7 @@ title: celligrate
 author: Yun (Renee) Zhang
 email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
-  An essential software suite for *downstream* cell type characterization and integration from scRNA-seq experiments
+  An essential software suite for *downstream* cell type characterization and integration from single cell RNA-sequencing experiments
 show_excerpts: false # set to true to show excerpts on the homepage
 logo: /assets/jcvi.png
 
