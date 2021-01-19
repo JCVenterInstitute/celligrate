@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Motivation
+permalink: /motivation/
 ---
 
 Global collaborations, including the [Human Cell Atlas (HCA)](https://www.humancellatlas.org/) and the [BRAIN Initiative](https://braininitiative.nih.gov/), have made rapid advancements in the application of single cell/nucleus RNA-sequencing (sc/snRNA-seq) to characterize cells in the healthy and diseased human body, as the basis for understanding fundamental human biological processes and diagnosing, monitoring, and treating disease. Current efforts in the scRNA-seq community have been focused on developing analytical methods and software tools for the processing, clustering, and visualization of scRNA-seq data. However, a significant gap exists in the software stack between the end-products of the existing workflows (i.e. the clustered gene expression matrices) and important downstream uses of these data for the identification of cell type-specific marker genes and for the statistical comparison of cell type characteristics across studies.
