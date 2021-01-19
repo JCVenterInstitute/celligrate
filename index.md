@@ -20,3 +20,5 @@ title: Welcome to Celligrate!
 ## Tutorials
 
 * [FR-Match for robust matching of cell type clusters from single cell RNA sequencing data](https://jcventerinstitute.github.io/celligrate/FRmatch-vignette.html)
+
+## News
