@@ -38,16 +38,3 @@ Existing and new sc/snRNA-seq data need to go through quality control, alignment
 
 We are building a self-contained extensible software infrastructure for cell type matching using NS-Forest/FR-Match and two other established matching methods - [scmap](https://github.com/hemberg-lab/scmap) for cell-to-cluster mapping and [Seurat](https://github.com/satijalab/seurat) for cell-to-cell alignment - to close the gap between individual study scRNA-seq analyses and integrated cell type knowledge extraction. The proposed infrastructure will include independently-implemented analytical software modules, API interface with primary data sources (e.g. [HCA DCP](https://www.humancellatlas.org/data-sharing)), and compatibility with different programming languages, including Python/SCANPY and R/Bioconductor.
 
-## Acknowledgments
-
-* Allen Institute for Brain Science
-* Chan Zuckerberg Initiative 
-* Wellcome Sanger Institute
-
-## Contact Us
-
-Yun (Renee) Zhang zhangy@jcvi.org, Brian Aevermann baeverma@jcvi.org, and Richard Scheuermann RScheuermann@jcvi.org
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.txt).
