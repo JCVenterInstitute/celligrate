@@ -8,6 +8,7 @@ email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
   An essential software suite for *downstream* cell type characterization and integration from scRNA-seq experiments
 show_excerpts: false # set to true to show excerpts on the homepage
+logo: /assets/jcvi.png
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -53,3 +54,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jemoji
