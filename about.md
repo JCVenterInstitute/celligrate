@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Contact Us
 
-Yun (Renee) <Zhang zhangy@jcvi.org>, Brian Aevermann <baeverma@jcvi.org>, and Richard Scheuermann <RScheuermann@jcvi.org>.
+Yun (Renee) Zhang <zhangy@jcvi.org>, Brian Aevermann <baeverma@jcvi.org>, and Richard Scheuermann <RScheuermann@jcvi.org>.
 
 ## License
 
