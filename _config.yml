@@ -7,7 +7,7 @@ author: Yun (Renee) Zhang
 email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
   An essential software suite for robust single cell RNA-seq cell type integration
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -18,7 +18,7 @@ minima:
   social_links:
     twitter: JCVenterInst
     github:  yunzhang813
-    rss: rss
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -33,9 +33,9 @@ minima:
     # microdotblog: jekyll
 
     # Mastodon instances
-    mastodon:
-     - username: J. Craig Venter Institute
-       instance: https://www.jcvi.org/
+    # mastodon:
+    # - username: J. Craig Venter Institute
+    #   instance: https://www.jcvi.org/
     # - username: jekyll2
     #   instance: example.com
 
