@@ -1,14 +1,12 @@
-# Site wide configuration
-#locale: en_US
-#logo: # filename of a logo image that has been placed into your images directory
-
 title: celligrate
-author: Yun (Renee) Zhang
-email: zhangy@jcvi.org
+author:
+  name: Yun (Renee) Zhang
+  email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
   An essential software suite for *downstream* cell type characterization and integration from single cell RNA-sequencing experiments
+#logo: /assets/jcvi.png
+
 show_excerpts: true # set to true to show excerpts on the homepage
-logo: /assets/jcvi.png
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -19,7 +17,7 @@ minima:
   social_links:
     twitter: JCVenterInst
     github:  yunzhang813
-    # rss: rss
+    # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -32,11 +30,19 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
+    # keybase: jekyll
 
     # Mastodon instances
     # mastodon:
-    # - username: J. Craig Venter Institute
-    #   instance: https://www.jcvi.org/
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
 
@@ -50,9 +56,6 @@ header_pages:
 # Build settings
 markdown: kramdown
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
   
 plugins:
  - jekyll-feed
