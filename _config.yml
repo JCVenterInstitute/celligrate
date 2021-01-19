@@ -7,7 +7,7 @@ author: Yun (Renee) Zhang
 email: zhangy@jcvi.org
 description: > # this means to ignore newlines until "show_excerpts:"
   An essential software suite for *downstream* cell type characterization and integration from single cell RNA-sequencing experiments
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 logo: /assets/jcvi.png
 
 # Minima date format
@@ -46,12 +46,14 @@ header_pages:
  - motivation.md
  - FRmatch-vignette.html
  - about.md
- 
 
 # Build settings
 markdown: kramdown
 theme: minima
-
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
