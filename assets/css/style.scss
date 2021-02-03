@@ -8,9 +8,9 @@
 
   // Add logo to masthead
 .site-title::before {
-	content: url("jcvi-logo.png");
+	content: url("jcvi-logo-small.png");
 	display: inline-block;
 	position: relative;
-	width: 10px;
+	width: 37px;
 	top: 5px;
 }
