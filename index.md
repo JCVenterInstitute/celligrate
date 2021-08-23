@@ -19,6 +19,7 @@ title: Welcome to Celligrate!
 
 ## Tutorials
 
-* [FR-Match for robust matching of cell type clusters from single cell RNA sequencing data](https://jcventerinstitute.github.io/celligrate/FRmatch-vignette.html)
+* [Tutorial 1: FR-Match data object + matching across overlapping neuroanatomical regions (Layer 1 and full MTG)](https://jcventerinstitute.github.io/celligrate/FRmatch-vignette.html)
+* [Tutorial 2: matching across non-overlapping neuroanatomical regions (M1 and MTG)](https://jcventerinstitute.github.io/celligrate/tutorial-M1-MTG.nb.html)
 
 ## News
