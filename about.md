@@ -7,12 +7,11 @@ permalink: /about/
 ## Acknowledgments
 
 * Allen Institute for Brain Science
-* Chan Zuckerberg Initiative 
-* Wellcome Sanger Institute
+* Chan Zuckerberg Initiative
 
 ## Contact Us
 
-Yun (Renee) Zhang <zhangy@jcvi.org>, Brian Aevermann <baeverma@jcvi.org>, and Richard Scheuermann <RScheuermann@jcvi.org>.
+Yun (Renee) Zhang <zhangy@jcvi.org> and Richard Scheuermann <RScheuermann@jcvi.org>.
 
 ## License
 
