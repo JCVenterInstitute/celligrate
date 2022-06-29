@@ -7,8 +7,8 @@ permalink: /about/
 ## Acknowledgments
 
 * Allen Institute for Brain Science
-* Chan Zuckerberg Initiative (Completed grant: DAF 2018–182730)
-* The NIH BRAIN Initiative (Active grant: 1RF1MH123220)
+* Chan Zuckerberg Initiative (DAF 2018–182730)
+* The NIH BRAIN Initiative (1RF1MH123220)
 
 ## Contact Us
 

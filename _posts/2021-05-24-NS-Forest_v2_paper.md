@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our NS-Forest v2.0 paper is published :tada:"
+title: "NS-Forest v2.0 paper is published :tada:"
 categories: NS-Forest
 ---
 

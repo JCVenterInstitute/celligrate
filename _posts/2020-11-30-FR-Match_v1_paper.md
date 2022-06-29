@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our first FR-Match paper is published :tada:"
+title: "FR-Match v1.0 paper is published :tada:"
 categories: FR-Match
 ---
 
