@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-  // Add logo to masthead
+// Add logo to masthead
 .site-title::before {
 	content: url("jcvi-logo.png");
 	display: inline-block;
@@ -16,5 +16,5 @@
 }
 
 .class {
-	image-resolution: 300dpi; 
+	image-resolution: 100dpi; 
  }
