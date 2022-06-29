@@ -15,3 +15,7 @@ The NS-Forest algorithm (Figure A) takes the clustered cell-by-gene expression m
 ### FR-Match
 
 FR-Match is a novel application of the Friedman-Rafsky (FR) nonparametric statistical test for multivariate data comparison using minimum spanning tree graph analysis applied to single cell clustering results.  FR-Match takes clustered gene expression matrices from query and reference experiments and returns the FR statistic with p-value as evidence that two cell clusters are matched or not, i.e., sharing a common gene expression profile pattern.  In brief, the algorithm automatically detects whether cell clusters are intermixed with each other or segregated from each other in the selected feature space based on their joint minimum structure tree topology (Figure B).
+
+# Normalization
+
+![](images/normalization.jpg)
