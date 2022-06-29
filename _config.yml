@@ -49,8 +49,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - motivation.md
- - FRmatch-vignette.html
+ - methods.md
  - about.md
 
 # Build settings

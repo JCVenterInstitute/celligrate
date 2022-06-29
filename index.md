@@ -9,9 +9,9 @@ layout: home
 title: Welcome to Celligrate!
 ---
 
-**Celligrate** is a project to develop an essential software suite for *downstream* cell type characterization and integration of single cell RNA-sequencing (scRNA-seq) datasets. Celligrate includes two customized learning methods: the [NS-Forest](https://github.com/JCVenterInstitute/NSForest)  (a machine learning-based method for necessary and sufficient marker gene selection for each cell type) and [FR-Match](https://github.com/JCVenterInstitute/FRmatch) (a statistical learning method for cluster-to-cluster cell type matching) developed by our group. The use of Celligrate extends the utility of the upstream scRNA-seq analysis pipelines to downstream use cases, and ultimately accelerates the growth of knowledge about cell types by pooling results from individual studies.  
+**Celligrate** is a project for cell type characterization and integration from single cell RNA-sequencing (scRNA-seq) data. The backbone of Celligrate consists of two carefully-designed and extensively-validated computational algorithms: NS-Forest and FR-Match. [NS-Forest](https://github.com/JCVenterInstitute/NSForest) is a random forest machine learning algorithm for cell type marker gene identification. [FR-Match](https://github.com/JCVenterInstitute/FRmatch) is a topological graph theory-based statistical learning algorithm for cell type matching. Celligrate also introduces a notion of “cell type barcode” for insightful visualization of cell type expression data. The use of Celligrate extends the utility of the upstream scRNA-seq analysis pipelines to downstream use cases, and ultimately accelerates the growth of knowledge about cell types by pooling results from individual studies.  
 
-![](images/normalization.png){:height="100%" width="100%"}
+![](images/normalization.pdf){:height="70%" width="70%"}
 
 ## Software Suite
 
