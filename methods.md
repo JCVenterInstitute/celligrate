@@ -6,7 +6,7 @@ permalink: /methods/
 
 Our lab has developed two carefully-designed and validated machine learning and statistical methods for cell type-specific marker gene selection and cell type matching of single cell transcriptomic profiling data.  [NS-Forest](https://github.com/JCVenterInstitute/NSForest) is a random forest machine learning-based algorithm that selects the minimum set of necessary and sufficient (NS) marker genes to characterize the defining distinctions of different cell types. [FR-Match](https://github.com/JCVenterInstitute/FRmatch) is a graph theoretical approach to identify common and novel cell types using the multivariate nonparametric statistical test, [Friedman-Rafsky (FR) test](https://doi.org/10.1214/aos/1176344722). These methods form the backbone of the Celligrate workflow.
 
-![](images/methods.jpg){:height="100%" width="100%"}
+![](images/methods.png)
 
 ### NS-Forest
 
