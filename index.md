@@ -27,4 +27,8 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 * [Tutorial 4: Matching human M1 cell subclasses across different platforms (SMART-seq and 10X)](https://jcventerinstitute.github.io/celligrate/tutorial-huamn-M1-10X-SS4.nb.html)
 * [Tutorial 5: Cell type calling for spatial transcriptomics data (smFISH and scRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorial-smFISH.nb.html)
 
+## Demo data in the tutorials
+
+The demo data storage is under migration.  For any inquiries, please contact <zhangy@jcvi.org>.
+
 # News
