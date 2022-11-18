@@ -23,7 +23,7 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 
 ## NS-Forest
 
-* [NS-Forest tutorial](https://jcventerinstitute.github.io/NS-Forest_tutorial.html)
+* [NS-Forest tutorial](https://jcventerinstitute.github.io/celligrate/NS-Forest_tutorial.html)
 
 ## FR-Match
 
