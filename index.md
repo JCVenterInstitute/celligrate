@@ -21,6 +21,12 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 
 # Tutorials
 
+## NS-Forest
+
+* [NS-Forest tutorial](https://jcventerinstitute.github.io/NS-Forest_tutorial.html)
+
+## FR-Match
+
 * [Tutorial 1: FR-Match data object + matching across overlapping neuroanatomical regions (Layer 1 and full MTG)](https://jcventerinstitute.github.io/celligrate/FRmatch-vignette.html)
 * [Tutorial 2: Matching across non-overlapping neuroanatomical regions (M1 and MTG)](https://jcventerinstitute.github.io/celligrate/tutorial-M1-MTG.nb.html)
 * [Tutorial 3: Matching mouse M1 cell subclasses across different sample types (scRNAseq and snRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorial-mouse-M1-10X-scRNAseq-snRNAseq.nb.html)
