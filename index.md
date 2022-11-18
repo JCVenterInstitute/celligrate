@@ -27,12 +27,12 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 
 ## FR-Match
 
-* [Tutorial 1: FR-Match data object + matching across overlapping neuroanatomical regions (Layer 1 and full MTG)](https://jcventerinstitute.github.io/celligrate/FRmatch-vignette.html)
-* [Tutorial 2: Matching across non-overlapping neuroanatomical regions (M1 and MTG)](https://jcventerinstitute.github.io/celligrate/tutorial-M1-MTG.nb.html)
-* [Tutorial 3: Matching mouse M1 cell subclasses across different sample types (scRNAseq and snRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorial-mouse-M1-10X-scRNAseq-snRNAseq.nb.html)
-* [Tutorial 4: Matching human M1 cell subclasses across different platforms (SMART-seq and 10X)](https://jcventerinstitute.github.io/celligrate/tutorial-huamn-M1-10X-SS4.nb.html)
-* [Tutorial 5: Cell type calling for spatial transcriptomics data (smFISH and scRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorial-smFISH.nb.html)
-* [Tutorial 6: Notebook for challange 1](https://jcventerinstitute.github.io/celligrate/FR-Match_challenge1.nb.html) of [Allen Institute Data challenge: Mapping of Cell Type Data](https://alleninstitute.org/what-we-do/brain-science/events-training/workshop-mapping-cell-types-data/data-challenges/#Challenge1)
+* [Tutorial 1: FR-Match data object + matching across overlapping neuroanatomical regions (Layer 1 and full MTG)](https://jcventerinstitute.github.io/celligrate/tutorials/FRmatch-vignette.html)
+* [Tutorial 2: Matching across non-overlapping neuroanatomical regions (M1 and MTG)](https://jcventerinstitute.github.io/celligrate/tutorials/tutorial-M1-MTG.nb.html)
+* [Tutorial 3: Matching mouse M1 cell subclasses across different sample types (scRNAseq and snRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorials/tutorial-mouse-M1-10X-scRNAseq-snRNAseq.nb.html)
+* [Tutorial 4: Matching human M1 cell subclasses across different platforms (SMART-seq and 10X)](https://jcventerinstitute.github.io/celligrate/tutorials/tutorial-huamn-M1-10X-SS4.nb.html)
+* [Tutorial 5: Cell type calling for spatial transcriptomics data (smFISH and scRNAseq)](https://jcventerinstitute.github.io/celligrate/tutorials/tutorial-smFISH.nb.html)
+* [Tutorial 6: Notebook for challange 1](https://jcventerinstitute.github.io/celligrate/tutorials/FR-Match_challenge1.nb.html) of [Allen Institute Data challenge: Mapping of Cell Type Data](https://alleninstitute.org/what-we-do/brain-science/events-training/workshop-mapping-cell-types-data/data-challenges/#Challenge1)
 
 ## Demo data in the tutorials
 
