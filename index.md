@@ -23,7 +23,8 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 
 ## NS-Forest
 
-* [NS-Forest tutorial](https://jcventerinstitute.github.io/celligrate/tutorials/NS-Forest_tutorial.html)
+*  Please find NS-Forest v4.0 tutorial on [readthedocs](https://nsforest.readthedocs.io/en/latest/tutorial.html)
+* [NS-Forest v3.9 tutorial](https://jcventerinstitute.github.io/celligrate/tutorials/NS-Forest_tutorial.html)
 
 ## FR-Match
 
@@ -36,6 +37,6 @@ See [Methods](https://jcventerinstitute.github.io/celligrate/methods/) for more 
 
 ## Demo data in the tutorials
 
-The demo data storage is under migration.  For any inquiries, please contact <zhangy@jcvi.org>.
+For inquiries of demo data, please contact <zhangy@jcvi.org>.
 
 # News
